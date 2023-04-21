@@ -1,9 +1,8 @@
 /*
-* @file Yusuf Kaya - BP3 Proje 1
+* @file BP3 Proje 1
 * @description Girilen islem tipine gore zero paddingli ya da zero paddingsiz convolution matrisi hesaplayan program
-* @assignment 1. Proje
 * @date 18.12.2021
-* @author Yusuf Kaya - yusuf_kaya@stu.fsm.edu.tr
+* @author Yusuf Kaya
 */
 
 #include <stdio.h>
